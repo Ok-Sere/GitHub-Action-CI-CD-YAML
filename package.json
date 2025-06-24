@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Ok-Sere/GitHub-Action-CI-CD-YAML/issues"
   },
-  "homepage": "https://github.com/Ok-Sere/GitHub-Action-CI-CD-YAML#readme"
+  "homepage": "https://github.com/Ok-Sere/GitHub-Action-CI-CD-YAML#readme",
+  "devDependencies": {
+    "jest": "^30.0.2"
+  }
 }
